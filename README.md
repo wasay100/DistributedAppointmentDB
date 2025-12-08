@@ -22,7 +22,16 @@ web/ # Frontend pages
 
 ## Status
 
-Core data structures   
-Web interface 
-Backend integration (in progress)
+**Completed:**
+-  B-Tree implementation (sorted storage)
+-  Hash Table implementation (O(1) lookup)
+-  API layer integration
+-  Web interface (HTML/CSS/JS)
+-  AWS EC2 deployment tested
+
+**In Progress:**
+-  HTTP server for frontend-backend connection
+-  Advanced data structures
+
+
 

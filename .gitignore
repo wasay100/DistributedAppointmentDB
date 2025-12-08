@@ -1,0 +1,16 @@
+*.exe
+*.obj
+*.o
+*.out
+*.log
+*.tmp
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.txt
